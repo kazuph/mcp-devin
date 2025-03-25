@@ -2,6 +2,10 @@
 
 MCP server for Devin AI with Slack integration
 
+<a href="https://glama.ai/mcp/servers/@kazuph/mcp-devin">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@kazuph/mcp-devin/badge" alt="MCP-Devin MCP server" />
+</a>
+
 This is a TypeScript-based MCP server that provides integration between Devin AI and Slack. The server enables:
 
 - Creating Devin sessions and automatically posting tasks to Slack
